@@ -11,6 +11,9 @@
 
 지도 교수님 : 윤종영 교수님
 
+![이리온 팀원](./Users/yeji/Desktop/이리온 팀원.png)
+
+
 ### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
