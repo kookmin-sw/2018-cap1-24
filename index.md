@@ -12,6 +12,8 @@
 지도 교수님 : 윤종영 교수님
 
 ![이리온 팀원](./GitHub/2018-cap1-24/team.png)
+![Image](<img width="709" alt="kakaotalk_photo_2018-03-09-14-35-33" src="https://user-images.githubusercontent.com/22758640/37192141-25e33f94-23a7-11e8-8e2b-59364df6a350.png">
+)
 
 
 ### 
@@ -33,7 +35,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
