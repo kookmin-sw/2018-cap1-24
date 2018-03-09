@@ -12,8 +12,8 @@
 지도 교수님 : 윤종영 교수님
 
 이리온 팀원 : 이가혜, 강윤희, 
-![Image](<img width="709" alt="kakaotalk_photo_2018-03-09-14-35-33" src="https://user-images.githubusercontent.com/22758640/37192141-25e33f94-23a7-11e8-8e2b-59364df6a350.png">
-)
+![Image](<img width="709" alt="kakaotalk_photo_2018-03-09-14-35-33" src="https://user-images.githubusercontent.com/22758640/37192141-25e33f94-23a7-11e8-8e2b-59364df6a350.png">)
+
 ##  III, Abstract (영문 요약) 
 
 Unregulated or novice operators with no background in programming can lead to interesting and effective online acquisition of core content from the Web through OTL propensions, HTML5, and so on. OTL Ban, HTML & CSS lectures, are not about specifics, but about other in-depth educational goals that can draw interest in programming into simple and easy ones.
@@ -23,4 +23,4 @@ Since the fourth industrial revolution, programmers have become the most promisi
 ##   IV, 소개 영상
 
 ##   V, 결과 영상
- 
+![Link](https://youtu.be/B5bB6jgIZnQ)
