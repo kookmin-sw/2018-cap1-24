@@ -23,8 +23,7 @@ Since the fourth industrial revolution, programmers have become the most promisi
 
 ##   IV, 소개 영상
 
-
-![Video Label](https://www.youtube.com/watch?v=B5bB6jgIZnQ) 
+![[Video Label]Uploading KakaoTalk_Photo_2018-03-09-16-52-51_43.png…]((https://www.youtube.com/watch?v=B5bB6jgIZnQ) 
 
 ##   V, 결과 영상
 
