@@ -23,8 +23,7 @@ Since the fourth industrial revolution, programmers have become the most promisi
 
 ##   IV, 소개 영상
 
-![[강의 영상]<img width="1076" alt="sum" src="https://user-images.githubusercontent.com/22758640/37197454-31998246-23be-11e8-8bc8-0fba4a96aea2.png">
-(https://www.youtube.com/watch?v=B5bB6jgIZnQ)]
+[![Video Label](https://i.ytimg.com/vi/B5bB6jgIZnQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-WojzLZi0ZtfwFgJ8lFP9roWtRw)](https://www.youtube.com/watch?v=B5bB6jgIZnQ) 
 
 ##   V, 결과 영상
 
