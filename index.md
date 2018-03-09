@@ -23,4 +23,4 @@ Since the fourth industrial revolution, programmers have become the most promisi
 ##   IV, 소개 영상
 
 ##   V, 결과 영상
-![OTL금지, HTML&CSS 샘플 강의](https://youtu.be/B5bB6jgIZnQ)
+[Link](https://youtu.be/B5bB6jgIZnQ)
