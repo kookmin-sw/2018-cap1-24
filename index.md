@@ -23,4 +23,4 @@ Since the fourth industrial revolution, programmers have become the most promisi
 ##   IV, 소개 영상
 
 ##   V, 결과 영상
-![Link](https://youtu.be/B5bB6jgIZnQ)
+[Link](https://youtu.be/B5bB6jgIZnQ)
