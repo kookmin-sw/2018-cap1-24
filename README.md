@@ -22,7 +22,9 @@ Unregulated or novice operators with no background in programming can lead to in
 Since the fourth industrial revolution, programmers have become the most promising jobs in the future, and as the nation's elementary, middle and high schools have strengthened their software education programs within the revised education period of 2015, parents and the younger generation are fiercely interested in the " coding frenzy. " In addition, coding, or software-use, is often essential to the task management, and as the IT industry begins to see light, non-electronist job seekers also study coding. While performing winter internships at major code companies that develop novel software education contents in various ways, they recognized the need for friendly and interesting lectures rather than stiff and formal ones. I decided to create an interesting lecture for a beginner who really wanted to learn programming from the HTML5 lecture that the major code company wanted to follow up on.
 
 ##   IV, 소개 영상
-(https://www.youtube.com/watch?v=B5bB6jgIZnQ)
+
+
+[![Video Label](https://youtu.be/B5bB6jgIZnQ.jpg)](https://www.youtube.com/watch?v=B5bB6jgIZnQ) 
 
 ##   V, 결과 영상
 
