@@ -13,8 +13,8 @@
 
 이리온 팀원 : 이가혜, 강윤희, 김예지
 
-![Image](<img width="709" alt="kakaotalk_photo_2018-03-09-14-35-33" src="https://user-images.githubusercontent.com/22758640/37192141-25e33f94-23a7-11e8-8e2b-59364df6a350.png">
-)
+<img width="709" alt="kakaotalk_photo_2018-03-09-14-35-33" src="https://user-images.githubusercontent.com/22758640/37192141-25e33f94-23a7-11e8-8e2b-59364df6a350.png">
+
 ##  III, Abstract (영문 요약) 
 
 Unregulated or novice operators with no background in programming can lead to interesting and effective online acquisition of core content from the Web through OTL propensions, HTML5, and so on. OTL Ban, HTML & CSS lectures, are not about specifics, but about other in-depth educational goals that can draw interest in programming into simple and easy ones.
@@ -22,6 +22,7 @@ Unregulated or novice operators with no background in programming can lead to in
 Since the fourth industrial revolution, programmers have become the most promising jobs in the future, and as the nation's elementary, middle and high schools have strengthened their software education programs within the revised education period of 2015, parents and the younger generation are fiercely interested in the " coding frenzy. " In addition, coding, or software-use, is often essential to the task management, and as the IT industry begins to see light, non-electronist job seekers also study coding. While performing winter internships at major code companies that develop novel software education contents in various ways, they recognized the need for friendly and interesting lectures rather than stiff and formal ones. I decided to create an interesting lecture for a beginner who really wanted to learn programming from the HTML5 lecture that the major code company wanted to follow up on.
 
 ##   IV, 소개 영상
+(https://www.youtube.com/watch?v=B5bB6jgIZnQ)
 
 ##   V, 결과 영상
 
