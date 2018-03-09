@@ -11,8 +11,8 @@
 
 지도 교수님 : 윤종영 교수님
 
-이리온 팀원 : 이가혜, 강윤희, 
-![Image](<img width="709" alt="kakaotalk_photo_2018-03-09-14-35-33" src="https://user-images.githubusercontent.com/22758640/37192141-25e33f94-23a7-11e8-8e2b-59364df6a350.png">)
+이리온 팀원 : 이가혜, 강윤희, 김예지
+<img width="709" alt="kakaotalk_photo_2018-03-09-14-35-33" src="https://user-images.githubusercontent.com/22758640/37192141-25e33f94-23a7-11e8-8e2b-59364df6a350.png">
 
 ##  III, Abstract (영문 요약) 
 
@@ -23,4 +23,4 @@ Since the fourth industrial revolution, programmers have become the most promisi
 ##   IV, 소개 영상
 
 ##   V, 결과 영상
-[Link](https://youtu.be/B5bB6jgIZnQ)
+![수정 모드로 돌아가기OTL금지, HTML&CSS 샘플 강의](https://youtu.be/B5bB6jgIZnQ)
