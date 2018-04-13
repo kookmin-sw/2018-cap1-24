@@ -28,9 +28,9 @@ SNS : www.facebook.com/yeji.kim.5055233
 
 #### 이가혜 
 <img width="181" alt="default" src="https://user-images.githubusercontent.com/22758640/38545432-fe2dc79c-3ce4-11e8-91a4-44363d8bd20d.png"> 
-학번 : 20143084 
-SNS : www.facebook.com/kahye5232   
-팀 내 역할 : 컨텐츠 기획, 영상 콘티 제작      
+  학번 : 20143084   
+  SNS : www.facebook.com/kahye5232     
+  팀 내 역할 : 컨텐츠 기획, 영상 콘티 제작        
 
 
 ***
