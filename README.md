@@ -46,9 +46,8 @@ SNS : www.facebook.com/yeji.kim.5055233
 
 ##  III. Abstract (영문 요약) 
 
-Unregulated or novice operators with no background in programming can lead to interesting and effective online acquisition of core content from the Web through OTL propensions, HTML5, and so on. OTL Ban, HTML & CSS lectures, are not about specifics, but about other in-depth educational goals that can draw interest in programming into simple and easy ones.
 
-Since the fourth industrial revolution, programmers have become the most promising jobs in the future, and as the nation's elementary, middle and high schools have strengthened their software education programs within the revised education period of 2015, parents and the younger generation are fiercely interested in the " coding frenzy. " In addition, coding, or software-use, is often essential to the task management, and as the IT industry begins to see light, non-electronist job seekers also study coding. While performing winter internships at major code companies that develop novel software education contents in various ways, they recognized the need for friendly and interesting lectures rather than stiff and formal ones. I decided to create an interesting lecture for a beginner who really wanted to learn programming from the HTML5 lecture that the major code company wanted to follow up on.
+Creates an online lecture on which beginners or beginners can take an interest in HTML using CSS, a web programming language. Our team makes simple but novel exercise examples to help us understand the lecture. We also create an online lecture platform optimized for "이리온" helping to create an easy and comfortable classroom environment for the trainee. In addition, it proposes a new method of teaching that is easily interpreted from the perspective of teachers by creating textbooks to directly educate "이리온" team online.
 
 ***
 
