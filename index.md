@@ -8,15 +8,29 @@
 
 ##  II. 팀 소개  
 
-#### 팀 명 : 이리OㅗL
+### 팀 명 : 이리OㅗL
+### 프로젝트 명 : OTL 금지, HTML&CSS 
 
-#### 프로젝트 명 : OTL 금지, HTML&CSS 
+#### 지도 교수님 : 윤종영 교수님
 
-##### 지도 교수님 : 윤종영 교수님
+ 팀원 소개
+#### 강윤희 (팀장)
+<img width="204" alt="3" src="https://user-images.githubusercontent.com/22758640/38545406-f101e5c6-3ce4-11e8-8ffa-322c56e4b31b.png"> 
+학번 : 20153145  
+SNS : www.facebook.com/kanguni56
+팀 내 역할 : 컨텐츠 기획, 영상 편집 
 
-##### 팀원 소개 : 이가혜, 강윤희, 김예지
+#### 김예지
+<img width="196" alt="2" src="https://user-images.githubusercontent.com/22758640/38545422-fa1fe7c0-3ce4-11e8-80d0-42c0ed5c3732.png"> 
+학번 : 20153162
+SNS : www.facebook.com/yeji.kim.5055233 
+팀 내 역할 : 플랫폼 제작&녹음, 강의 리뷰 
 
-<img width="709" alt="default" src="https://user-images.githubusercontent.com/22758640/38544870-9627211c-3ce3-11e8-9584-a2a00e1f0c6e.png">
+#### 이가혜 
+<img width="181" alt="default" src="https://user-images.githubusercontent.com/22758640/38545432-fe2dc79c-3ce4-11e8-91a4-44363d8bd20d.png"> 
+학번 : 20143084 
+SNS : www.facebook.com/kahye5232   
+팀 내 역할 : 컨텐츠 기획, 영상 콘티 제작      
 
 
 ***
