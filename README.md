@@ -54,7 +54,9 @@ Creates an online lecture on which beginners or beginners can take an interest i
 ##   IV. 소개 영상
 
 #### OTL금지 HTML&CSS 강의 샘플 영상
-[![Video Label](https://i.ytimg.com/vi/B5bB6jgIZnQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-WojzLZi0ZtfwFgJ8lFP9roWtRw)](https://www.youtube.com/watch?v=B5bB6jgIZnQ) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RKBlJDmPns8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ##   V. 결과 영상
 
