@@ -23,7 +23,6 @@ SNS : www.facebook.com/kanguni56
 
 팀 내 역할 : 컨텐츠 기획, 영상 편집 
 
-
 #### 김예지
 <img width="196" alt="2" src="https://user-images.githubusercontent.com/22758640/38545422-fa1fe7c0-3ce4-11e8-80d0-42c0ed5c3732.png"> 
 
@@ -36,16 +35,17 @@ SNS : www.facebook.com/yeji.kim.5055233
 #### 이가혜 
 <img width="181" alt="default" src="https://user-images.githubusercontent.com/22758640/38545432-fe2dc79c-3ce4-11e8-91a4-44363d8bd20d.png"> 
 
-학번 : 20143084 
-
-SNS : www.facebook.com/kahye5232   
-
-팀 내 역할 : 컨텐츠 기획, 영상 콘티 제작      
+  학번 : 20143084   
+  
+  SNS : www.facebook.com/kahye5232    
+  
+  팀 내 역할 : 컨텐츠 기획, 영상 콘티 제작        
 
 
 ***
 
 ##  III. Abstract (영문 요약) 
+
 
 Creates an online lecture on which beginners or beginners can take an interest in HTML using CSS, a web programming language. Our team makes simple but novel exercise examples to help us understand the lecture. We also create an online lecture platform optimized for "이리온" helping to create an easy and comfortable classroom environment for the trainee. In addition, it proposes a new method of teaching that is easily interpreted from the perspective of teachers by creating textbooks to directly educate "이리온" team online.
 
@@ -54,10 +54,9 @@ Creates an online lecture on which beginners or beginners can take an interest i
 ##   IV. 소개 영상
 
 #### OTL금지 HTML&CSS 강의 샘플 영상
-[![Video Label](https://i.ytimg.com/vi/B5bB6jgIZnQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-WojzLZi0ZtfwFgJ8lFP9roWtRw)](https://www.youtube.com/watch?v=B5bB6jgIZnQ) 
+
+ https://www.youtube.com/embed/RKBlJDmPns8
+
 
 ##   V. 결과 영상
-
-
-
 
